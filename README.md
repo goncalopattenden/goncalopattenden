@@ -10,7 +10,7 @@ Software engineer from Lisbon, Portugal. Computer Science @ Instituto Superior T
 
 ### Featured Project
 
-**[BPERFIT](https://github.com/goncalopattenden/bperfit-showcase)**: booking and training platform used daily by a personal training studio and its 30+ clients.
+**[BPERFIT Platform](https://github.com/goncalopattenden/bperfit-showcase)**: booking and training platform I built for BPERFIT, a personal training studio, used daily by its 30+ clients.
 
 ### Languages, Libraries and Tools
 
