@@ -6,7 +6,7 @@
 
 ### About Me
 
-Software engineer from Lisbon, Portugal. Computer Science Instituto Superior Técnico.
+Software engineer from Lisbon, Portugal. Computer Science @ Instituto Superior Técnico.
 
 ### Featured Project
 
