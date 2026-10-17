@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Gon%C3%A7alo%20Pattenden&fontSize=40&fontColor=ffffff)
 
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/...) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncalopattenden)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalopattenden@gmail.com)
-<!-- [![CV](https://img.shields.io/badge/-CV-DAA520?style=for-the-badge&logo=readthedocs&logoColor=white)](LINK_PARA_O_CV) -->
 
 ### About Me
 
